@@ -8,7 +8,7 @@ Scripts shell para configuração de rede em VPS OVH — Additional IPs, Failove
 
 ### `ovh_add_failover_ip.sh`
 
-Adiciona múltiplos **Additional IPs (Failover)** em um VPS OVH com Ubuntu LTS, seguindo exatamente o padrão da [documentação oficial OVH](https://help.ovhcloud.com/csm/pt-vps-network-ip?id=kb_article_view&sysparm_article=KB0047718).
+Adiciona múltiplos **Additional IPs (Failover)** em um VPS OVH com Ubuntu LTS, seguindo exatamente o padrão da [documentação oficial OVH](https://help.ovhcloud.com/csm/pt-public-cloud-network-configure-additional-ip?id=kb_article_view&sysparm_article=KB0050256).
 
 **O script executa as 3 etapas oficiais:**
 
